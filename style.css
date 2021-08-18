@@ -1,0 +1,14 @@
+.img{
+              width:200;
+              height:200;
+}
+body.container{
+
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: aqua;
+}
